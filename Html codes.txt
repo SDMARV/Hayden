@@ -1,0 +1,51 @@
+<html>
+  <title>developing a website with three web pages</title>
+  <!-- Creating an homepage-->
+  
+    <ol>
+     <li><h3><b><u>Homepage</u></b></h3></li> 
+       
+          <ul>
+            <li><a href="https://www.lsec.ac.uk/">London South East Colleges Homepage</a></li>
+            <li><a href="https://www.lsec.ac.uk/">London South East Colleges Homepage</a></li>
+         </ul>
+            <!-- Creating about us page -->
+      <li><h3><b><u>AboutUs</u></b></h3></li> 
+
+           <ul>
+ <li><a href="https://www.lsec.ac.uk/about-us">London South East Colleges AboutUs Page</a></li>
+ <li><a href="https://www.lsec.ac.uk/about-us">London South East Colleges AboutUs Page</a></li>
+             
+             
+
+    </ol>
+  </body>
+
+</html>
+
+
+....................................................................................................
+
+
+
+
+
+<html>
+  <title> Homepage </title>
+      <h3><b><u>Homepage</u></b></h3> 
+  <!--Adding image to my homepage-->
+  <img src=
+  
+
+            
+                
+           
+  
+   
+  
+</body>
+
+</html>
+</body>
+
+</html>
